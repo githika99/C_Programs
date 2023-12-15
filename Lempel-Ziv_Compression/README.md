@@ -1,5 +1,5 @@
 <h1>Description</h1>
-This assignment consits of a compression (encode) algorithm and decompression (decode) algorithm that do LZ78 data compression. 
+There are errors in the encoding and decoding. This assignment consits of a compression (encode) algorithm and decompression (decode) algorithm that do LZ78 data compression. 
 
 <h1>Building</h1>
 $ make
