@@ -1,5 +1,5 @@
 <h1>Description</h1>
-For this assignment, a private and public key is created. Using these keys, a message is encrypted and then decrypted.
+There are errors in the encryption and decryption. For this project, a private and public key is created. Using these keys, a message is encrypted and then decrypted.
 
 <h1>Building</h1>
 $ make
