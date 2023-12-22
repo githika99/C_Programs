@@ -6,10 +6,7 @@ state of the universe after each generation:
 2. Any dead cell with exactly three live neighbors becomes a live cell.
 3. All other cells die, either due to loneliness or overcrowding.
 
-The animation does not work, but the rest project does. 
-
 (ncurses does not print out anything, it is always set to false). 
-
 For this project, life.c contains a main function and universe.c contains many other functions used by the main function.
 
 Building
