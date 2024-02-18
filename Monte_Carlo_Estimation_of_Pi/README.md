@@ -1,7 +1,5 @@
-<h1>Name</h1>
-Create plots to visualize a monte carlo estimation of PI. 
-
 <h1>Description</h1>
+Create plots to visualize a monte carlo estimation of PI. 
 
 plot.sh is a shell script that utilizes the program monte_carlo.c, which was provided. 
 The purpose of monte_carlo.c is to estimate PI.
